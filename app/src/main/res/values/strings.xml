@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Guma News</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+    <string name="no_item_found">Sin objetoencontrado..</string>
+    <string name="no_item_related">No se encontraron relacionados..</string>
+    <string name="no_favorite">No se ha encontrado ningún favorito.</string>
+    <string name="no_data">Datos no encontrados</string>
+    <string name="share_list">Compartir</string>
+    <string name="search">Buscar</string>
+    <string name="notification_title">Habilitar notificación push</string>
+    <string name="logout_msg">¿Seguro que quieres cerrar sesión?</string>
+    <string name="welcome_back">Bienvenido de nuevo.</string>
+    <string name="sign_into_continue">Inicia sesión para continuar</string>
+
+    <string name="network_msg">No hay conexion de red!!!</string>
+    <string name="no_data_found">Datos no encontrados!!</string>
+
+    <!--Drawer Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_latest">Noticias Recientes</string>
+    <string name="menu_most">Noticias mas vistas</string>
+    <string name="menu_category">Categorias</string>
+    <string name="menu_favorite">Favoritos</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_setting">Configs.</string>
+    <string name="menu_rate">Rate App</string>
+    <string name="menu_more">More App</string>
+    <string name="menu_share">Compartir App</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="menu_login">Acceder</string>
+    <string name="menu_logout">Salir</string>
+
+    <string name="forgot_description">Ingrese su dirección de correo electrónico a continuación y le enviaremos un correo electrónico con contraseña</string>
+    <string name="button_text_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="please_enter_email">Por favor ingrese su correo electrónico</string>
+    <string name="password_login">Contraseña</string>
+    <string name="remember_me">Recuerdame</string>
+    <string name="login">Accede</string>
+    <string name="skip">Saltar</string>
+    <string name="forgot_password">Se te olvidó tu contraseña ?</string>
+    <string name="no_account">¿No tiene una cuenta? </string>
+    <string name="sign_up">Regístrate</string>
+    <string name="register">Registro</string>
+    <string name="already_account">¿Ya tienes una cuenta? </string>
+    <string name="name_login">Nombre</string>
+    <string name="email_login">Email</string>
+    <string name="phone_login">Telefono</string>
+    <string name="send">Enviar</string>
+    <string name="update">Actualizar</string>
+    <string name="conne_msg1">No hay conexion de red!!!</string>
+    <string name="loading">Loading...</string>
+    <string name="dialog_error">Error...</string>
+    <string name="dialog_warning">Advertencia...</string>
+    <string name="dialog_success">Éxito</string>
+    <string name="dialog_ok">OK</string>
+
+    <string name="home_category">Categorias</string>
+    <string name="home_top">Top 10 Noticias</string>
+    <string name="home_latest">Ultimas Noticias</string>
+    <string name="home_all">Ver todo</string>
+    <string name="detail_comment">Comentarios</string>
+    <string name="related_news">Noticias relacionadas</string>
+    <string name="please_enter_comment">Ingrese comentario</string>
+    <string name="no_comment_found">Comentario no encontrado</string>
+    <string name="all_cmt">Todos los comentarios</string>
+    <string name="comment_require">Comentario requerido..</string>
+    <string name="login_require">Para iniciar sesión, haga clic en Aceptar y vaya a la pantalla de inicio de sesión</string>
+
+    <string name="version">Version</string>
+    <string name="author">Autor</string>
+    <string name="company">Compañia</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Contacto</string>
+    <string name="about">Acerca</string>
+
+    <string name="favourite_remove">Remover de favoritos</string>
+    <string name="favourite_add">Agregar a favoritos</string>
+    <string name="permission_request">No puede ver imágenes sin el permiso solicitado.</string>
+
+    <string name="more_app_url">https://play.google.com/store/apps/developer?id=Vishal+Android+Apps</string>
+
+    <string name="gdpr_privacy_link">https://termsfeed.com/blog/privacy-policy-admob/</string>
+
+    <string name="share_message">Download app this link</string>
+    <string name="news_video">Video de Noticia:-</string>
+
+    <!--if you want rtl change value of isRTL to true else false-->
+    <string name="isRTL">false</string>
+    <string name="license_msg">You are using invalid License or Package name is already in use, for more information contact us: info@viaviweb.com or viaviwebtech@gmail.com</string>
+
+    <!-- youtube -->
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="youtube_api_key">AIzaSyAYJwy6nzCFqgr5LtihRI3YuVBb_34aprw</string>
+
+    <string name="exit_yes">Si</string>
+    <string name="exit_no">No</string>
+    <string name="exit_msg">¿Seguro que quieres salir?</string>
+    <string name="default_notification_channel_id">Guma News</string>
+</resources>

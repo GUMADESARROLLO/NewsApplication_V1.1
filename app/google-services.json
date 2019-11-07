@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404526477518",
+    "firebase_url": "https://guma-news-2.firebaseio.com",
+    "project_id": "guma-news-2",
+    "storage_bucket": "guma-news-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404526477518:android:90e0f736f86ca163bee09f",
+        "android_client_info": {
+          "package_name": "com.viaviapp.newsapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404526477518-2u1l8gdkjec1tk2kb1jmm9r2tesfqm15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_bPTUy021lUhDnrgUR9O1fwBN5I25Wvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404526477518-2u1l8gdkjec1tk2kb1jmm9r2tesfqm15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
